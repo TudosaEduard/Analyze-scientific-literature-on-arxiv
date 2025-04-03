@@ -12,4 +12,4 @@ following objectives:
 * Citation graphs (analyze citation graphs using Spark GraphX, based on article authors collaborations)
 * Implementation in Python, using Google Colab
 
-Source Code and Experiment here: https://tudosaeduard.github.io/Analyze-scientific-literature-on-arxiv/
+Source Code and Experiment here: [Analyze-scientific-literature-on-arxiv](https://tudosaeduard.github.io/Analyze-scientific-literature-on-arxiv/BDA.html)
