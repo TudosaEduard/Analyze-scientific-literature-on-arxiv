@@ -11,3 +11,5 @@ following objectives:
 * Classification (supervised training using category information and embeddings with stratified sampling, logistic regression, decision trees)
 * Citation graphs (analyze citation graphs using Spark GraphX, based on article authors collaborations)
 * Implementation in Python, using Google Colab
+
+Source Code and Experiment here: https://tudosaeduard.github.io/Analyze-scientific-literature-on-arxiv/
